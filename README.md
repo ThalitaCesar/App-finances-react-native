@@ -1,6 +1,6 @@
-#APP Finances - React Native
+# APP Finances - React Native
 
-##Sobre
+## Sobre
 
 Primeiro app criado com react native.
 O projeto é um app de controle financeiro, onde o usuário pode ver seus gastos, saldo e movimentações. 
